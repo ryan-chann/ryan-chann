@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![Languages](https://skillicons.dev/icons?i=java,cs,c,scala,php,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,php,sql)](https://skillicons.dev)
 
 <h3 align="left">Frameworks & Tools:</h3>
 
