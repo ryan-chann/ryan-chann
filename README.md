@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi There 👋, I'm Ryan Chan</h1>
 
-<!--
-**ryan-chann/ryan-chann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I am open to learn anything with focus on the tech industry</h3>
 
-Here are some ideas to get you started:
+- 📊 I am a final year Software Engineering student and currently working on C# based back-end projects.
+- 🌱 I am currently learning C#, ASP.NET and API development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-chann&show_icons=true&locale=en&layout=compact" alt="ryan-chann" /></p>
+
+<h3 align="left">Languages:</h3>
+[![Languages](https://skillicons.dev/icons?i=java,cs,c,scala,php,sql)](https://skillicons.dev)
+
+<h3 align="left">Frameworks & Tools:</h3>
+[![Frameworks](https://skillicons.dev/icons?i=github,figma,dotnet,linux,spring,mysql)](https://skillicons.dev)
