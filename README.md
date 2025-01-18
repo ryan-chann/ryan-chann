@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Ryan Chan</h1>
+<h1 align="center">Hi 👋, I'm Ryan Chan</h1>
 
 <h3 align="center">I am open to learn anything with focus on the tech industry</h3>
 
