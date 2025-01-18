@@ -13,4 +13,4 @@
 
 <h3 align="left">Frameworks & Tools:</h3>
 
-[![Frameworks](https://skillicons.dev/icons?i=github,figma,dotnet,linux,spring,mysql)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=github,figma,dotnet,linux,spring,mysql,aws)](https://skillicons.dev)
