@@ -3,7 +3,7 @@
 <h3 align="center">I am open to learn anything with focus on the tech industry</h3>
 
 - 📊 I am a final year Software Engineering student and currently working on C# back-end projects.  
-- 🌱 I am currently learning C#, ASP.NET and API development
+- 🌱 Check out my <a href="https://github.com/ryan-chann/leetcode">Leetcode documentation</a>.
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-chann&show_icons=true&locale=en&layout=compact" alt="ryan-chann" /></p>
 
