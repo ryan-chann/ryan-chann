@@ -12,7 +12,7 @@
 <h2>Tools & Technologies I've Worked With</h2>
 <h3 align="left">Languages:</h3>
 
-[![Languages](https://skillicons.dev/icons?i=java,cs,php,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,go,sql)](https://skillicons.dev)
 
 <h3 align="left">Frameworks & Tools:</h3>
 
