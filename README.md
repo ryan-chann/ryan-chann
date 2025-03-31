@@ -20,11 +20,6 @@
 
 </br>
 
-<h2>My Links</h2>
-<ul>
-  <li><a href="https://github.com/ryan-chann/ryan-chann/wiki">Wiki</a></li>
-</ul>
-
 
 
 
